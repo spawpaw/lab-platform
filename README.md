@@ -1,5 +1,9 @@
-> 紫金学院IT工作室 服务外包项目组 2017 9月 新生任务 
-> @auther 尚奔奔  since 2017.9.6
+> 紫金学院IT工作室 服务外包项目组 2017 9月 新生任务   
+> @auther 尚奔奔  since 2017.9.6  
+>   
+> 项目启动方法: 打开IDEA,选择file->new->project from version control -> github  
+> 输入 `https://github.com/spawpaw/lab-platform.git` ,然后点击`clone`即可下载并打开本项目  
+> 打开后,在右下角出现的提示框中点击`add as Maven project`  
 
 # 一、需求
 
