@@ -70,7 +70,7 @@
 ```json
 {
 	"code":0,
-	"message":"ok"
+	"message":"ok",
 	"data":"{loginName:\"root\",password:\"123456\"}"
 }
 ```
